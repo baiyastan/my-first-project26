@@ -1,0 +1,6 @@
+.block {
+    width: 210px;
+    height: 190px;
+    background-color: green;
+    box-shadow: 0 12px 19px blue;
+}
